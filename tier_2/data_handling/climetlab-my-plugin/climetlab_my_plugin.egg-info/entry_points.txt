@@ -1,0 +1,2 @@
+[climetlab.datasets]
+my-plugin-main = climetlab_my_plugin.main:Main
